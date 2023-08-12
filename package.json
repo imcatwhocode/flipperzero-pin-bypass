@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "serialport": "^11.0.1"
+  }
+}
